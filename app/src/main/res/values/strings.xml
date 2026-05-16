@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">BlatPlat</string>
+    <string name="home_get_offer">Получить предложение</string>
+    <string name="home_buy_tariff">Купить тариф</string>
 </resources>

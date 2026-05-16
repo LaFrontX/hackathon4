@@ -1,0 +1,10 @@
+services:
+  api:
+    build: .
+    ports:
+      - "8000:8000"
+    environment:
+      # Для теста уведомления о штрафах: число > 30
+      DEMO_FINES_COUNT: "35"
+    volumes:
+      - ./app:/app/app

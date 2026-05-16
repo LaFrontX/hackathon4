@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DeviceStreaming">
-    <option name="defaultDeviceApplied" value="true" />
     <option name="deviceSelectionList">
       <list>
         <PersistentDeviceSelectionData>
@@ -354,18 +353,6 @@
           <option name="screenY" value="2340" />
         </PersistentDeviceSelectionData>
         <PersistentDeviceSelectionData>
-          <option name="api" value="33" />
-          <option name="brand" value="samsung" />
-          <option name="codename" value="a32" />
-          <option name="id" value="a32" />
-          <option name="labId" value="google" />
-          <option name="manufacturer" value="Samsung" />
-          <option name="name" value="Galaxy A32" />
-          <option name="screenDensity" value="420" />
-          <option name="screenX" value="1080" />
-          <option name="screenY" value="2400" />
-        </PersistentDeviceSelectionData>
-        <PersistentDeviceSelectionData>
           <option name="api" value="36" />
           <option name="brand" value="samsung" />
           <option name="codename" value="a34x" />
@@ -581,7 +568,6 @@
           <option name="screenDensity" value="420" />
           <option name="screenX" value="1080" />
           <option name="screenY" value="2410" />
-          <option name="selected" value="true" />
           <option name="tags">
             <list>
               <option value="dda-default" />
@@ -984,7 +970,6 @@
           <option name="screenDensity" value="420" />
           <option name="screenX" value="1080" />
           <option name="screenY" value="2424" />
-          <option name="selected" value="true" />
           <option name="tags">
             <list>
               <option value="dda-default" />
@@ -1317,7 +1302,6 @@
           <option name="screenDensity" value="390" />
           <option name="screenX" value="1080" />
           <option name="screenY" value="2404" />
-          <option name="selected" value="true" />
           <option name="tags">
             <list>
               <option value="dda-default" />
@@ -1420,7 +1404,6 @@
           <option name="screenDensity" value="450" />
           <option name="screenX" value="1080" />
           <option name="screenY" value="2340" />
-          <option name="selected" value="true" />
           <option name="tags">
             <list>
               <option value="dda-default" />
@@ -1439,7 +1422,6 @@
           <option name="screenDensity" value="450" />
           <option name="screenX" value="1080" />
           <option name="screenY" value="2340" />
-          <option name="selected" value="true" />
           <option name="tags">
             <list>
               <option value="dda-default" />
@@ -1640,7 +1622,6 @@
           <option name="screenDensity" value="390" />
           <option name="screenX" value="2076" />
           <option name="screenY" value="2152" />
-          <option name="selected" value="true" />
           <option name="tags">
             <list>
               <option value="dda-default" />
